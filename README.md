@@ -169,5 +169,3 @@ docker compose up
 - Explainability and monitoring
 - API and dashboard deployment
 - Dockerized production workflows
-
-```
